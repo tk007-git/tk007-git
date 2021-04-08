@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Tanmoy Karmakar
+####  i'm a beginner trying to learn something
+! i'm a beginner trying to learn something
+<img src='https://github.com/tk007-git/tk007-git/blob/main/sad-walk.gif' height='300'>
 
-<!--
-**tk007-git/tk007-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk007-git)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk007-git&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tk007-git)  
+
+![GitHub metrics](https://metrics.lecoq.io/tk007-git)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tk007-git)  
+
+![Profile views](https://gpvc.arturio.dev/tk007-git)  
