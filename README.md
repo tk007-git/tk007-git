@@ -11,8 +11,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk007-git&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tk007-git)  
-
-![GitHub metrics](https://metrics.lecoq.io/tk007-git)  
+  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tk007-git)  
 
