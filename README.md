@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/tk007-git)  
   
-  ## Follow on:
+  ## Follow me on:
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![Abir Hasan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
