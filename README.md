@@ -12,7 +12,7 @@
 [![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 
-[twitter]: https://twitter.com/tanmoy_k
+[twitter]: https://twitter.com/tanmoy__k
 [instagram]: https://instagram.com/tanmoy.jpg
 [telegram]: https://t.me/tk007
 [facebook]: https://facebook.com/T0NY007
