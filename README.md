@@ -5,6 +5,19 @@
 
 ![Profile views](https://gpvc.arturio.dev/tk007-git)  
   
+  ## Follow on:
+[![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![Abir Hasan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![Abir Hasan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
+[![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+
+
+[twitter]: https://twitter.com/tanmoy_k
+[instagram]: https://instagram.com/tanmoy.jpg
+[telegram]: https://t.me/tk007
+[facebook]: https://facebook.com/T0NY007
+
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk007-git&show_icons=true)  
 
   
