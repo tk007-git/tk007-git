@@ -19,7 +19,7 @@
 
  
   
-![zαι∂ κнαи's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&theme=radical&line_height=27&include_all_commits=true)  
+![TANMOY's github status](https://github-readme-stats.vercel.app/api?username=zaidkhan0997&show_icons=true&count_private=true&hide_border=false&theme=radical&line_height=27&include_all_commits=true)  
 
   
 
