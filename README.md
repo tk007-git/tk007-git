@@ -1,6 +1,6 @@
 ### Hi there <img src='https://github.com/tk007-git/tk007-git/blob/main/hi.gif' height='30px'> my name is Tanmoy Karmakar
 ####  i'm just a newbee trying to learn something
-####  IRONMAN fam :heart: 
+####  IRONMAN :heart: fan
 ####  <b>currently i am learning Python<b/><img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 #### 
 
