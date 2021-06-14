@@ -4,7 +4,6 @@
 ####  <b>currently i am learning Python<b/><img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 #### 
 
-![Profile views](https://gpvc.arturio.dev/tk007-git)  
   
   ## Follow me on:
 [![Tanmoy Karmakar](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
